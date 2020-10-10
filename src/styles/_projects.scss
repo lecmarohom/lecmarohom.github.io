@@ -1,4 +1,4 @@
-#notebooks {
+#projects {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -8,9 +8,9 @@
   @media only screen and (min-width: $cut) {
     width: 80%;
   }
-}
+} 
 
-.user-notebooks {
+.user-projects {
   margin: 0 auto;
   img {
     max-width: 100%;
