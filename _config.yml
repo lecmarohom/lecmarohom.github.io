@@ -1,13 +1,13 @@
 # Site settings
 title: ALMarohom
 description: 
+url: "https://lecmarohom.github.io" # root URL
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://lecmarohom.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 
 # User settings
 username: Alec Louie Marohom
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: An Electronics Engineering graduate who arranged a data-driven prototype for the Department of Agriculture - Sugar Regulatory Administration and Department of Science and Technology of the Philippines. Utilizes free time in casual collaborative brainstorming with colleagues in the hopes of creating a better application of technology. Currently takes interest in data-driven technological advancements and its other creative aspects and applications.
 user_title: Data Scientist
 email: alecmarohom15.p@gmail.com
 #twitter_username: lorem_ipsum
